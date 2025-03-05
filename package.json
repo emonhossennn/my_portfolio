@@ -2,6 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lively-stroopwafel-ebc4dc.netlify.app",
   "dependencies": {
     "cra-template": "1.2.0",
     "framer-motion": "^12.4.4",
